@@ -1,11 +1,8 @@
 # Crowd-Density-Estimation-using-Yolo
 Crowd counting is one of the main concerns of crowd analysis. Estimating  density map and crowd count in crowd videos and images has a large  application area such as traffic monitoring, surveillance, crowd anomalies,  congestion, public safety, urbanization, planning and development, etc.
 The final GUI and the results are shown below. The current number of people in the frame  of the video is displayed in the white box of the window and similarly the total count of  people is shown in the respective box. And with the video a graph is created shown the  overall density of people in the video.
-![image](https://user-images.githubusercontent.com/90322640/215266219-b53facb9-03ea-4158-9408-79f259145ded.png)
-Select any video/photo of your choice and when  you select one,the model will detect the persons as  shown.
-![image](https://user-images.githubusercontent.com/90322640/215266225-64b4cd8d-f6ba-4738-8926-077ade78a6a8.png)
 
-![image](https://user-images.githubusercontent.com/90322640/215266197-20e86a4a-9ae2-4de2-b0d4-4419535defcb.png)
+Select any video/photo of your choice and when  you select one,the model will detect the persons as  shown.
 On selection of video, the model will count from  time to time and at any particular point when we  press ‘q’, we will get the count at that point.
 It will also give us a graph as shown![image](https://user-images.githubusercontent.com/90322640/215266242-37eebc97-379b-45db-8b80-ad0fe5cd218e.png)
 
